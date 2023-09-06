@@ -5,6 +5,7 @@
     left: 0;
     right: 0;
     width: 100%;
+    z-index: 1;
     border-bottom: 0.1rem solid var(--light-gray-color);
 }
 
@@ -53,3 +54,4 @@
     width: 50%;
     left: 25%;
 }
+
