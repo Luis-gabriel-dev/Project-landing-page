@@ -2,7 +2,7 @@
 
 Esse projeto foi feito com base do curso de JavaScript e TypeScript do básico ao avançado do Luiz Otávio
 
-## Link para o site:
+## Link para o site
 
 [Landing Page](https://extraordinary-granita-28c1e4.netlify.app/#)
 
